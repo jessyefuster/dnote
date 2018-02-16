@@ -1,0 +1,13 @@
+{
+  "nm": {
+    "name": "nm",
+    "notes": [
+      {
+        "uuid": "8f93ad67-3809-4dce-be90-12a6e87bdb63",
+        "content": "nm (sans option) n'affiche pas les symboles dont les bits N_STAB sont présents",
+        "added_on": 1518742228,
+        "edited_on": 0
+      }
+    ]
+  }
+}

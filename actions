@@ -1,0 +1,1 @@
+[{"id":0,"type":"add_book","data":{"book_name":"nm"},"timestamp":1518742228},{"id":0,"type":"add_note","data":{"note_uuid":"8f93ad67-3809-4dce-be90-12a6e87bdb63","book_name":"nm","content":"nm (sans option) n'affiche pas les symboles dont les bits N_STAB sont présents"},"timestamp":1518742228}]
