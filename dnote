@@ -1,4 +1,15 @@
 {
+  "c": {
+    "name": "c",
+    "notes": [
+      {
+        "uuid": "93582721-33da-4d56-9a43-7afbf3013424",
+        "content": "on peut faire un strlen sur les tableaux non malloc (tab[x]) en faisant (sizeof(tab) / sizeof(tab[0]))",
+        "added_on": 1518747243,
+        "edited_on": 0
+      }
+    ]
+  },
   "nm": {
     "name": "nm",
     "notes": [
@@ -6,6 +17,12 @@
         "uuid": "8f93ad67-3809-4dce-be90-12a6e87bdb63",
         "content": "nm (sans option) n'affiche pas les symboles dont les bits N_STAB sont présents",
         "added_on": 1518742228,
+        "edited_on": 0
+      },
+      {
+        "uuid": "4c1001d8-b4f8-4206-96fc-bfa41bc5bfb6",
+        "content": "un symbole \"u\" n'existe que dans les DYLIB",
+        "added_on": 1518743706,
         "edited_on": 0
       }
     ]
